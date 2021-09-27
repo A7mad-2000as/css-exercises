@@ -1,0 +1,19 @@
+.red-background {
+    font-family: Verdana, sans-serif;
+    background-color: #f0b0b0;
+}
+
+.cooler {
+    font-size: 24px;
+}
+
+#blue-text-element {
+    color: #0000ff;
+    font-size: 36px;
+}
+
+#green-background-element {
+    background-color: hsl(120, 70%, 70%);
+    font-size: 24px;
+    font-weight: bold;
+}
